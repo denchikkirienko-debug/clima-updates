@@ -1,7 +1,7 @@
 {
   "versionCode": 3,
   "versionName": "1.2",
-  "apkUrl": "https://raw.githubusercontent.com/denchikkirienko-debug/clima-updates/main/Clima-latest.apk",
+  "apkUrl": "https://raw.githubusercontent.com/denchikkirienko-debug/clima-updates/8ff53410ad538cd2ef63597bb5e96d7b2194ce65/Clima-latest.apk",
   "sha256": "8bfcdd1b7023ff30be005e9faef96022d3878111e421847620e4b3368d319675",
   "notes": "Новый раздел уведомлений: дождь, снег, предупреждение о начале, время оповещения и тихие часы.",
   "publishedAt": "2026-09-01"
