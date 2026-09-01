@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "apkUrl": "https://raw.githubusercontent.com/denchikkirienko-debug/clima-updates/9230236f960c7ac28bd8eb2d2cf76250da9cff28/Clima-latest.apk",
-  "sha256": "7427dd1d6086a7b31c11f65e3ebc75b3d7b0fd30b2a80189f1c9d76a6aa22072",
-  "notes": "Коллективные наблюдения за погодой: жители города могут подтвердить дождь или снег. Добавлены тихие уведомления о новых версиях с возможностью отключения. Уменьшен размер приложения, очищается кэш старых APK, улучшены стабильность и геолокация.",
+  "versionCode": 7,
+  "versionName": "1.6",
+  "apkUrl": "https://raw.githubusercontent.com/denchikkirienko-debug/clima-updates/c27602619f208b4407745f2bff522d9f878e81ea/Clima-latest.apk",
+  "sha256": "3634947c17a16dfe1a377e223bcd3a9017a87728326c7d916bcad0de94ad430c",
+  "notes": "Исправили загрузку данных погоды после оптимизации приложения. В разделе обновлений теперь отображается понятное сообщение, если установлена последняя версия.",
   "publishedAt": "2026-09-01"
 }
