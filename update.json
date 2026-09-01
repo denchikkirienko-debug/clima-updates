@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
-  "apkUrl": "https://raw.githubusercontent.com/denchikkirienko-debug/clima-updates/857c5f28338a12f5d6c7cf652f0a418171e93f2c/Clima-latest.apk",
-  "sha256": "d51d3dae218bbc61b5bae3cfb07d21c4e6a344e5b5f30725082b89d06d6fc5db",
-  "notes": "Выбор места для уведомлений: текущий главный город или отдельный город через поиск.",
+  "versionCode": 5,
+  "versionName": "1.4",
+  "apkUrl": "https://raw.githubusercontent.com/denchikkirienko-debug/clima-updates/599fce6895e4a3dc0dfaf1727bc0b0af19851206/Clima-latest.apk",
+  "sha256": "006d9c4db063d3d01cead363c3163d38e24c2ab3ab4b0586b3eb4fdb6b3da4e9",
+  "notes": "Добавили светлое, тёмное, системное оформление и тему «Небо». Главный экран по-прежнему меняет фон вместе с погодой. Убрали строку с температурой до полуночи.",
   "publishedAt": "2026-09-01"
 }
