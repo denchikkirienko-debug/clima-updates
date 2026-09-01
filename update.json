@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
-  "apkUrl": "https://raw.githubusercontent.com/denchikkirienko-debug/clima-updates/b617443658490cf76e8129bba5b23285d63ced2c/Clima-latest.apk",
-  "sha256": "34cf1c39babb8bae41f7a84d575de57b3aea91a3b6915b3cb3298e1182d12407",
-  "notes": "Улучшили прогноз осадков по 15 минут: карточка стала компактнее, показывает интенсивность и примерное время начала или окончания осадков. Добавили удобную отправку наблюдений о погоде. При первом запуске приложение теперь запрашивает разрешение на уведомления.",
+  "versionCode": 9,
+  "versionName": "1.8",
+  "apkUrl": "https://raw.githubusercontent.com/denchikkirienko-debug/clima-updates/a62414fa28c9536f99134050147c72ccc0bb7d61/Clima-latest.apk",
+  "sha256": "04175c4cbf6cff7475f7ae3e6bd464d4fa64870c189774adc1cefea71d387efd",
+  "notes": "Обновили главный экран: убрали нижнее меню и перенесли поиск города, избранное и настройки в компактную верхнюю панель. Блок осадков стал меньше и теперь появляется только при текущих осадках. Убрали лишние подписи и варианты погоды, не соответствующие прогнозу.",
   "publishedAt": "2026-09-01"
 }
