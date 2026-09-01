@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
-  "apkUrl": "https://raw.githubusercontent.com/denchikkirienko-debug/clima-updates/cd7f3931ada429e311a5af5316433e6cb573f9e7/Clima-latest.apk",
-  "sha256": "fd7791601ae84fd63fa42360d8c11187b99ba36f16be4b4b0c8191e861b8fd9e",
-  "notes": "Исправили положение стрелки возврата. Объединили подробные погодные показатели в компактную горизонтальную карусель. Неактуальные значения автоматически скрываются, а восход и закат остаются только в почасовом прогнозе.",
+  "versionCode": 11,
+  "versionName": "1.10",
+  "apkUrl": "https://raw.githubusercontent.com/denchikkirienko-debug/clima-updates/ad9c6a03b0f2379747d1fdd0d475a23d5d9ff9d5/Clima-latest.apk",
+  "sha256": "4c0139c3d25f9900c721351b940693dbde74a9d2b21efd513a3cfd9f0adcd1c7",
+  "notes": "Добавлены анимированные иконки для всех карточек «Подробности». Исправлено изменение фона уже установленных виджетов. Предпросмотр виджета теперь показывается на фоне рабочего стола. Улучшена работа прозрачного фона и тёмного текста. Исправлены мелкие ошибки и улучшена стабильность.",
   "publishedAt": "2026-09-01"
 }
