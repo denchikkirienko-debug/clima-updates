@@ -1,8 +1,8 @@
 {
   "versionCode": 2,
   "versionName": "1.1",
-  "apkUrl": "https://github.com/denchikkirienko-debug/clima-updates/releases/download/v1.1/Clima-1.1-auto-update.apk",
-  "sha256": "9fb11bbb673a4dbe793a6d173ed147b9c740b5e99cf02f8b566570946bf6e400",
+  "apkUrl": "https://raw.githubusercontent.com/denchikkirienko-debug/clima-updates/main/Clima-latest.apk",
+  "sha256": "650b677752dd4125eebc5300bc6865a92853da59c58aeb2f82593005de731c98",
   "notes": "Автоматические обновления и уведомления о дожде и снеге.",
   "publishedAt": "2026-09-01"
 }
