@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
-  "apkUrl": "https://raw.githubusercontent.com/denchikkirienko-debug/clima-updates/a62414fa28c9536f99134050147c72ccc0bb7d61/Clima-latest.apk",
-  "sha256": "04175c4cbf6cff7475f7ae3e6bd464d4fa64870c189774adc1cefea71d387efd",
-  "notes": "Обновили главный экран: убрали нижнее меню и перенесли поиск города, избранное и настройки в компактную верхнюю панель. Блок осадков стал меньше и теперь появляется только при текущих осадках. Убрали лишние подписи и варианты погоды, не соответствующие прогнозу.",
+  "versionCode": 10,
+  "versionName": "1.9",
+  "apkUrl": "https://raw.githubusercontent.com/denchikkirienko-debug/clima-updates/cd7f3931ada429e311a5af5316433e6cb573f9e7/Clima-latest.apk",
+  "sha256": "fd7791601ae84fd63fa42360d8c11187b99ba36f16be4b4b0c8191e861b8fd9e",
+  "notes": "Исправили положение стрелки возврата. Объединили подробные погодные показатели в компактную горизонтальную карусель. Неактуальные значения автоматически скрываются, а восход и закат остаются только в почасовом прогнозе.",
   "publishedAt": "2026-09-01"
 }
