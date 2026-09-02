@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "1.21",
-  "apkUrl": "https://raw.githubusercontent.com/denchikkirienko-debug/clima-updates/af3d84e518233c4480a7ff3adeb57012ee6bb04f/Clima-latest.apk",
-  "sha256": "39c085555286c8aa94ffa223d1eca4346d79b6a637209cdb1e27704436e3def9",
-  "notes": "• Удалена система ответов «Да/Нет».\n• Отключена отправка и загрузка пользовательских наблюдений.\n• Пользовательские ответы больше не влияют на погоду, фон и уведомления.\n• Карточка осадков теперь только информационная.\n• Удалены неиспользуемые Firebase-компоненты.",
+  "versionCode": 23,
+  "versionName": "1.22",
+  "apkUrl": "https://raw.githubusercontent.com/denchikkirienko-debug/clima-updates/c8a5c83cacbc839c1ac8aa38135009c7ec591d82/Clima-latest.apk",
+  "sha256": "b284a2c96d04477513cc249ac0096e1db567d2f2e973a29681e3b60c11b4bcc2",
+  "notes": "• Подключены WeatherAPI и OpenWeather для уточнения текущей погоды.\n• Текущее состояние погоды теперь сверяется по дополнительным источникам.\n• Улучшено определение фактических осадков и погодного фона.\n• Подготовлена тестовая версия для проверки точности прогноза.",
   "publishedAt": "2026-09-02"
 }
