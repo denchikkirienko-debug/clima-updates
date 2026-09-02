@@ -1,8 +1,8 @@
 {
-  "versionCode": 18,
-  "versionName": "1.17",
-  "apkUrl": "https://raw.githubusercontent.com/denchikkirienko-debug/clima-updates/ee9322ee95db26d304aa270fb3aedfbff5c3b99d/Clima-latest.apk",
-  "sha256": "89ffd38db49dc63ecc21511a89c4fce60af4bc45816473fda31dadc08be7fc1a",
-  "notes": "• Добавлены правильные закругления виджетов на рабочем экране.\n• Погодные фотографии теперь обрезаются по форме виджета.\n• Исправлено отображение углов во всех вариантах виджетов.",
+  "versionCode": 19,
+  "versionName": "1.18",
+  "apkUrl": "https://raw.githubusercontent.com/denchikkirienko-debug/clima-updates/9a0a39331fb4f4a6cf4dec7d5734f3d9a45e6427/Clima-latest.apk",
+  "sha256": "21ad080f4a00028ae95d3303bc4aa2bf723d20c69dd3e0334b44950ae80f1f03",
+  "notes": "• Исправлено растягивание погодных фонов в виджетах.\n• Фотографии теперь сохраняют правильные пропорции.\n• Добавлено аккуратное кадрирование фона под размеры виджета.\n• Исправление применено ко всем вариантам виджетов.",
   "publishedAt": "2026-09-02"
 }
