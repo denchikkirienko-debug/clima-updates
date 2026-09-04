@@ -1,8 +1,8 @@
 {
-  "versionCode": 37,
-  "versionName": "1.36",
-  "apkUrl": "https://raw.githubusercontent.com/denchikkirienko-debug/clima-updates/46cc0d6d4cbd3485a6a62b151e75013c20c3840a/Clima-latest.apk",
-  "sha256": "d79d47548b7a92e6aa01ee769cd5f1876ea2cc8d5ef95e70d69f734d986b838a",
-  "notes": "• Подключён собственный защищённый сервер Clima: прогнозы загружаются стабильнее и быстрее благодаря кешированию.\n• Ключи погодных сервисов больше не хранятся внутри приложения.\n• Запросы к серверу защищены проверкой подлинности подписанной Clima.\n• Исправлено получение и отображение температуры «Ощущается как».\n• Прогноз, поиск городов, часовые пояса и резервные источники работают через единый HTTPS-канал.",
+  "versionCode": 38,
+  "versionName": "1.37",
+  "apkUrl": "https://raw.githubusercontent.com/denchikkirienko-debug/clima-updates/e2bc48be02493fb40732de6123a0070b2d97e83e/Clima-latest.apk",
+  "sha256": "1bdd0e2577c3c651c54cb0ad868acd97e90a3a5c07bbc077b117d2224ed5fa2a",
+  "notes": "• Исправлена загрузка прогноза на устройствах, где Google Play Integrity недоступен или не поддерживает приложение из RuStore.\n• Сбой проверки устройства больше не блокирует MET Norway, Open-Meteo, WeatherAPI и OpenWeather.\n• Ключи погодных сервисов по-прежнему хранятся только на сервере и отсутствуют в APK.\n• Запасной доступ защищён ограничением частоты запросов, кешированием и строгой проверкой параметров.",
   "publishedAt": "2026-09-04"
 }
