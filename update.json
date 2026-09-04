@@ -1,8 +1,8 @@
 {
-  "versionCode": 31,
-  "versionName": "1.30",
-  "apkUrl": "https://raw.githubusercontent.com/denchikkirienko-debug/clima-updates/9283931b1949f626952fba6dad7d4ae395764dbc/Clima-latest.apk",
-  "sha256": "970cb17ff436eedbc784d80d66c0c0b20d0bc0a48a6e093e572396c72db2f8d2",
-  "notes": "Погодный фон теперь переключается вместе с видимой страницей города. При перелистывании туман, дождь, снег, облачность и время суток сразу соответствуют именно открытому городу.",
+  "versionCode": 32,
+  "versionName": "1.31",
+  "apkUrl": "https://raw.githubusercontent.com/denchikkirienko-debug/clima-updates/644e4f939d2b43d2aaec789660fd3cdc1a68f1ab/Clima-latest.apk",
+  "sha256": "7605fe2e470cfead63cd8e6b43a9983083871f87ca69885eeb2015ba0bcb85fd",
+  "notes": "Добавили предварительную загрузку прогнозов для всех избранных городов. Сначала загружаются соседние страницы, затем остальные — поэтому погода и подходящий фон готовы ещё до перелистывания.",
   "publishedAt": "2026-09-04"
 }
