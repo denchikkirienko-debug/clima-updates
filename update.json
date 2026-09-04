@@ -1,8 +1,8 @@
 {
-  "versionCode": 29,
-  "versionName": "1.28",
-  "apkUrl": "https://raw.githubusercontent.com/denchikkirienko-debug/clima-updates/9474115f7f7018cb55008afc36af9e7b0f12fed3/Clima-latest.apk",
-  "sha256": "ae23e48a27972f58ed05bec1a431c41dae3742c90755ca7ef6f3d4c96b284e65",
-  "notes": "Исправили отображение тумана и перенос погоды между городами. Жест «назад» теперь корректно работает во всех разделах. Выбранная тема применяется к поиску, настройке виджетов, качеству данных и подробным страницам.",
+  "versionCode": 30,
+  "versionName": "1.29",
+  "apkUrl": "https://raw.githubusercontent.com/denchikkirienko-debug/clima-updates/dea928e80489fbc26e7c05788ba93bceb14a8f75/Clima-latest.apk",
+  "sha256": "64c043795944fcb30994c6d5e949e19ab8528eb3a91f8aff82b99b1d577e0c60",
+  "notes": "Исправили перенос погоды между избранными городами. Теперь при перелистывании каждый город использует только собственный прогноз и состояние источников, а данные предыдущего города не показываются даже во время загрузки.",
   "publishedAt": "2026-09-04"
 }
