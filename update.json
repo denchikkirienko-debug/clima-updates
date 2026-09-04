@@ -1,8 +1,8 @@
 {
-  "versionCode": 38,
-  "versionName": "1.37",
-  "apkUrl": "https://raw.githubusercontent.com/denchikkirienko-debug/clima-updates/e2bc48be02493fb40732de6123a0070b2d97e83e/Clima-latest.apk",
-  "sha256": "1bdd0e2577c3c651c54cb0ad868acd97e90a3a5c07bbc077b117d2224ed5fa2a",
-  "notes": "• Исправлена загрузка прогноза на устройствах, где Google Play Integrity недоступен или не поддерживает приложение из RuStore.\n• Сбой проверки устройства больше не блокирует MET Norway, Open-Meteo, WeatherAPI и OpenWeather.\n• Ключи погодных сервисов по-прежнему хранятся только на сервере и отсутствуют в APK.\n• Запасной доступ защищён ограничением частоты запросов, кешированием и строгой проверкой параметров.",
+  "versionCode": 39,
+  "versionName": "1.38",
+  "apkUrl": "https://raw.githubusercontent.com/denchikkirienko-debug/clima-updates/4fae82530dfae3c467e376d11218a95883120114/Clima-latest.apk",
+  "sha256": "a33679e105920195a1d43c8aff3d8ddc821e6b0f2e6867fada30b581cc9a6bb6",
+  "notes": "• Исправлена работа прогноза без VPN на мобильных сетях.\n• Приложение больше не ждёт недоступные сервисы Google перед загрузкой погоды.\n• Добавлено прямое разрешение адреса VPS, не зависящее от DNS мобильного оператора.\n• HTTPS и подпись приложения сохранены; ключи погодных сервисов остаются только на сервере.\n• Сервер ограничивает частоту запросов и принимает только разрешённые маршруты и параметры.",
   "publishedAt": "2026-09-04"
 }
